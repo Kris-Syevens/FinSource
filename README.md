@@ -22,6 +22,8 @@ Not Applicable.
 - CSS (Sass/Bootstrap)
 - TypeScript
 - React
+- Axios
+- Puppeteer
 
 ## Future Updates
 
